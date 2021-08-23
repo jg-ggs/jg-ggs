@@ -1,8 +1,12 @@
-## Olá! Sou o José Guilherme 
+<h1 align="center">Olá! Sou o José Guilherme 👩‍💻</h1>
+
+- 👨‍🎓 Formado em: Técnico em Informática
+- 📘 Graduando: Análise e Desenvolvimento de Sistemas
+- 👨‍💻 Estou aprendendo atualmente Linux e Python
 <div>
   <a href="https://github.com/jg-ggs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jg-ggs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-ggs&layout=compact&theme=tokyonight&count_private=true"/>
+  <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-ggs&langs_count=16&theme=midnight-purple"/-->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
@@ -22,5 +26,6 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/josé-guilherme-pax/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/josé-guilherme-pax/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jg-ggs" alt="José Guilherme" /> </p>
 </div>
